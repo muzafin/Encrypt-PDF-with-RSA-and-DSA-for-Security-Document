@@ -56,8 +56,6 @@ Status: Memberikan notifikasi visual (Hijau/Merah) untuk menunjukkan apakah doku
 Proyek ini membutuhkan Python 3.x dan beberapa library eksternal:
 
 Persyaratan
-Python 3.x
-
-Tkinter (Umumnya sudah terinstal dengan Python)
-
-PyCryptodome
+- Python 3.x
+- Tkinter (Umumnya sudah terinstal dengan Python)
+- PyCryptodome
